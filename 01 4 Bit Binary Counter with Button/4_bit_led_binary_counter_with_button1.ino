@@ -1,4 +1,3 @@
-// Timea Bezdan
 int ledPin[] = {13, 12, 11, 10};
 int buttonState = 0;
 
